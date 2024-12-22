@@ -1,0 +1,2 @@
+# MainStringsJava
+Based on Java
