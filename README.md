@@ -109,4 +109,14 @@ MainStringsJava/
 - Allow the user to retry after an invalid selection.
 - Remove unwanted extra spaces and standardize username formatting.
 - Check for duplicate names before generating combinations.
-- Allow the user to
+- Allow the user to copy or save the selected username.
+
+## Learning Objectives
+
+This project demonstrates Java console input, arrays, nested loops, conditional statements, string concatenation, `split()`, `toLowerCase()`, and character access with `charAt()`.
+
+## Author
+
+**Ichiro Yamazaki**
+
+Repository: https://github.com/ichiroyamazaki/MainStringsJava
